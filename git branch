@@ -1,0 +1,30 @@
+[33mcommit 7eac85f6b009d82aa3feb005ab6af7dbaf98b0f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32myeniyeni-dal[m[33m)[m
+Author: Mete Karaca <karacamete59@gmail.com>
+Date:   Thu Nov 7 18:24:53 2024 +0300
+
+    Css ekledim
+
+[33mcommit f4445d88c7f1d9ce842bcee4a7fe8b646cddb381[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 8c87339 8e084b7
+Author: Mete Karaca <karacamete59@gmail.com>
+Date:   Thu Nov 7 16:54:12 2024 +0300
+
+    Merge branch 'dal-deneme'
+
+[33mcommit 8c87339973996e28b2f29c5d6bf08ffaef17e87a[m
+Author: Mete Karaca <karacamete59@gmail.com>
+Date:   Thu Nov 7 16:52:38 2024 +0300
+
+    add hmtl
+
+[33mcommit 8e084b76f042b3804ffcf797ed26bb1ccfcb155f[m[33m ([m[1;31morigin/dal-deneme[m[33m, [m[1;32mdal-deneme[m[33m)[m
+Author: Mete Karaca <karacamete59@gmail.com>
+Date:   Thu Nov 7 16:49:48 2024 +0300
+
+    dala css ekledim
+
+[33mcommit 0066ebeaf0d9c3f4a31a76d8e900eb3a4664b70d[m
+Author: Mete Karaca <karacamete59@gmail.com>
+Date:   Thu Nov 7 16:41:32 2024 +0300
+
+    readme yi ekledim
